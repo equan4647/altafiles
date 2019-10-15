@@ -1,0 +1,122 @@
+.
+05/09/19
+04:00:09 PM
+l01mp_tpl    XScale=1.000000     YScale=1.000000
+Warning:  l02pn_tpe    XScale=1.000560  MaxX=1.000999    YScale=1.001001  MaxY=1.000999
+Warning:  l03pn_bpe    XScale=1.000560  MaxX=1.000999    YScale=1.001001  MaxY=1.000999
+Warning:  l04pn_tpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+Warning:  l05pn_bpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+l06pn_tpe    XScale=1.000483     YScale=1.000951
+l07pn_bpe    XScale=1.000483     YScale=1.000951
+Warning:  l08pn_tpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+Warning:  l09pn_bpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+Warning:  l10pn_tpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l11pn_bpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l12pn_tpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l13pn_bpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l14pn_tpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l15pn_bpe    XScale=1.000526  MaxX=1.000999    YScale=1.001027  MaxY=1.000999
+Warning:  l16pn_tpe    XScale=1.000546  MaxX=1.000999    YScale=1.001048  MaxY=1.000999
+Warning:  l17pn_bpe    XScale=1.000546  MaxX=1.000999    YScale=1.001048  MaxY=1.000999
+Warning:  l18pn_tpe    XScale=1.000583  MaxX=1.000999    YScale=1.001086  MaxY=1.000999
+Warning:  l19mp_bpe    XScale=1.000583  MaxX=1.000999    YScale=1.001086  MaxY=1.000999
+Warning:  l20pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l21mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l22pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l23mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l24pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l25mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l26pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l27mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l28pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l29mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l30pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l31mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l32pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l33mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l34pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l35sp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l36pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l37sp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l38pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l39sp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l40pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l41mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l42pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l43mp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l44pn_tpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l45sp_bpe    XScale=1.000539  MaxX=1.000999    YScale=1.001066  MaxY=1.000999
+Warning:  l46pn_tpe    XScale=1.000519  MaxX=1.000999    YScale=1.001045  MaxY=1.000999
+Warning:  l47mp_bpe    XScale=1.000519  MaxX=1.000999    YScale=1.001045  MaxY=1.000999
+Warning:  l48pn_tpe    XScale=1.000517  MaxX=1.000999    YScale=1.001080  MaxY=1.000999
+Warning:  l49mp_bpe    XScale=1.000517  MaxX=1.000999    YScale=1.001080  MaxY=1.000999
+Warning:  l50mp_tpe    XScale=1.000530  MaxX=1.000999    YScale=1.001060  MaxY=1.000999
+Warning:  l51pn_bpe    XScale=1.000530  MaxX=1.000999    YScale=1.001060  MaxY=1.000999
+Warning:  l52mp_tpe    XScale=1.000493  MaxX=1.000999    YScale=1.001021  MaxY=1.000999
+Warning:  l53mp_bpe    XScale=1.000493  MaxX=1.000999    YScale=1.001021  MaxY=1.000999
+Warning:  l54pn_tpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+Warning:  l55pn_bpe    XScale=1.000524  MaxX=1.000999    YScale=1.001025  MaxY=1.000999
+Warning:  l56pn_tpe    XScale=1.000560  MaxX=1.000999    YScale=1.001001  MaxY=1.000999
+Warning:  l57pn_bpe    XScale=1.000560  MaxX=1.000999    YScale=1.001001  MaxY=1.000999
+l58mp_bpl    XScale=1.000000     YScale=1.000000
+Acp.exe AcpDll.dll ActApd.dll ActCmd.dll ActGui.dll AesCmd.dll AesGui.dll Bup.dll BupCmd.dll BupGui.dll Cam.dll CamCmd.dll CamGui.dll CdbmCmd.dll CdrCmd.dll CdrG.dll CdrGui.dll Cmd.dll Csl.dll Dai.dll Dml.dll Dmn.dll DmnCmd.dll DmnGui.dll Dol.dll Dpa.dll DtmCmd.dll DtmGui.dll Edt.dll EdtApd.dll EdtCmd.dll EdtDll.dll EdtGinfra.dll EdtGui.dll EdtNet.dll EdtTst.dll EngPrep.dll Et.dll EtCmd.dll EtGui.dll EtOpt.dll EtOut.dll F1028940_V-SCORE FlpCmd.dll FlpGui.dll Form.dll FormCmd.dll FormGui.dll Gdm.dll GdmG.dll Gen2.dll GenG.dll GetDll.dll GetIo.dll GetIo.map Gf.dll GfCmd.dll GfGui.dll GnsLib1.dll Gui.dll GuiInfra.dll GuiUtils.dll ImpCmd.dll ImpGui.dll InCAM.exe InCAM_Flex.bat InCAM_Interface.bat Inp.dll InpCmd.dll InpGui.dll Io.dll IoCmd.dll IoGui.dll Iol.dll IolOdb.dll Lbe.dll LbeCmd.dll LbeGui.dll Lst.dll LstApd.dll LstCmd.dll Mat.dll Mtp.dll Mtp.pdb Nc.dll NcCmd.dll NcGui.dll NetDll.dll Odb.dll Out.dll OutCmd.dll OutGui.dll Pnl.dll PnlCmd.dll PnlG.dll PnlGui.dll PnlM.dll Qt3Support4.dll Qt3Support4.pdb QtCore4.dll QtCore4.pdb QtGui4.dll QtGui4.pdb QtNetwork4.dll QtNetwork4.pdb QtSql4.dll QtSql4.pdb QtXml4.dll QtXml4.pdb QtXmlPatterns4.dll QtXmlPatterns4.pdb RoutCmd.dll RoutG.dll RoutGui.dll Rv.dll RvCmd.dll Uai.dll UaiCmd.dll VscCmd.dll VscGui.dll admin_tool bfHttpServer.dll clt.dll cm.dll cmu.dll dbutil.exe dfm_brand.exe dim.dll dongle_info.exe form_builder gateway.exe gen.dll geo.dll glock.exe hasp_rt.exe haspvlib_85874.dll imageformats incamd.exe inlink lib_gateway.lib log.dll out_file plugins_ui pnlbg.exe prog qrcodelib.dll qtSolutions.dll rout_bga rout_bga_1-12 rpd.exe rpd.pdb stat.dll svt.dll swv.dll unrar.dll utl.dll
+05/22/19
+05:59:05 PM
+l01mp_tpl    XScale=1.000000     YScale=1.000000
+Warning:  l02pn_tpe    XScale=1.000651  MaxX=1.000999    YScale=1.001078  MaxY=1.000999
+Warning:  l03pn_bpe    XScale=1.000651  MaxX=1.000999    YScale=1.001078  MaxY=1.000999
+Warning:  l04pn_tpe    XScale=1.000599  MaxX=1.000999    YScale=1.001084  MaxY=1.000999
+Warning:  l05pn_bpe    XScale=1.000599  MaxX=1.000999    YScale=1.001084  MaxY=1.000999
+Warning:  l06pn_tpe    XScale=1.000587  MaxX=1.000999    YScale=1.001077  MaxY=1.000999
+Warning:  l07pn_bpe    XScale=1.000587  MaxX=1.000999    YScale=1.001077  MaxY=1.000999
+Warning:  l08pn_tpe    XScale=1.000557  MaxX=1.000999    YScale=1.001072  MaxY=1.000999
+Warning:  l09pn_bpe    XScale=1.000557  MaxX=1.000999    YScale=1.001072  MaxY=1.000999
+Warning:  l10pn_tpe    XScale=1.000562  MaxX=1.000999    YScale=1.001076  MaxY=1.000999
+Warning:  l11pn_bpe    XScale=1.000562  MaxX=1.000999    YScale=1.001076  MaxY=1.000999
+Warning:  l12pn_tpe    XScale=1.000554  MaxX=1.000999    YScale=1.001080  MaxY=1.000999
+Warning:  l13pn_bpe    XScale=1.000554  MaxX=1.000999    YScale=1.001080  MaxY=1.000999
+Warning:  l14pn_tpe    XScale=1.000542  MaxX=1.000999    YScale=1.001072  MaxY=1.000999
+Warning:  l15pn_bpe    XScale=1.000542  MaxX=1.000999    YScale=1.001072  MaxY=1.000999
+Warning:  l16pn_tpe    XScale=1.000561  MaxX=1.000999    YScale=1.001111  MaxY=1.000999
+Warning:  l17pn_bpe    XScale=1.000561  MaxX=1.000999    YScale=1.001111  MaxY=1.000999
+Warning:  l18pn_tpe    XScale=1.000588  MaxX=1.000999    YScale=1.001112  MaxY=1.000999
+Warning:  l19mp_bpe    XScale=1.000588  MaxX=1.000999    YScale=1.001112  MaxY=1.000999
+Warning:  l20pn_tpe    XScale=1.000555  MaxX=1.000999    YScale=1.001084  MaxY=1.000999
+Warning:  l21mp_bpe    XScale=1.000555  MaxX=1.000999    YScale=1.001084  MaxY=1.000999
+Warning:  l22pn_tpe    XScale=1.000567  MaxX=1.000999    YScale=1.001070  MaxY=1.000999
+Warning:  l23mp_bpe    XScale=1.000567  MaxX=1.000999    YScale=1.001070  MaxY=1.000999
+Warning:  l24pn_tpe    XScale=1.000557  MaxX=1.000999    YScale=1.001065  MaxY=1.000999
+Warning:  l25mp_bpe    XScale=1.000557  MaxX=1.000999    YScale=1.001065  MaxY=1.000999
+Warning:  l26pn_tpe    XScale=1.000574  MaxX=1.000999    YScale=1.001064  MaxY=1.000999
+Warning:  l27mp_bpe    XScale=1.000574  MaxX=1.000999    YScale=1.001064  MaxY=1.000999
+Warning:  l28pn_tpe    XScale=1.000554  MaxX=1.000999    YScale=1.001040  MaxY=1.000999
+Warning:  l29mp_bpe    XScale=1.000554  MaxX=1.000999    YScale=1.001040  MaxY=1.000999
+Warning:  l30pn_tpe    XScale=1.000534  MaxX=1.000999    YScale=1.001045  MaxY=1.000999
+Warning:  l31mp_bpe    XScale=1.000534  MaxX=1.000999    YScale=1.001045  MaxY=1.000999
+Warning:  l32pn_tpe    XScale=1.000569  MaxX=1.000999    YScale=1.001036  MaxY=1.000999
+Warning:  l33mp_bpe    XScale=1.000569  MaxX=1.000999    YScale=1.001036  MaxY=1.000999
+Warning:  l34pn_tpe    XScale=1.000553  MaxX=1.000999    YScale=1.001042  MaxY=1.000999
+Warning:  l35sp_bpe    XScale=1.000553  MaxX=1.000999    YScale=1.001042  MaxY=1.000999
+Warning:  l36pn_tpe    XScale=1.000559  MaxX=1.000999    YScale=1.001043  MaxY=1.000999
+Warning:  l37sp_bpe    XScale=1.000559  MaxX=1.000999    YScale=1.001043  MaxY=1.000999
+Warning:  l38pn_tpe    XScale=1.000556  MaxX=1.000999    YScale=1.001050  MaxY=1.000999
+Warning:  l39sp_bpe    XScale=1.000556  MaxX=1.000999    YScale=1.001050  MaxY=1.000999
+Warning:  l40pn_tpe    XScale=1.000591  MaxX=1.000999    YScale=1.001044  MaxY=1.000999
+Warning:  l41mp_bpe    XScale=1.000591  MaxX=1.000999    YScale=1.001044  MaxY=1.000999
+Warning:  l42pn_tpe    XScale=1.000600  MaxX=1.000999    YScale=1.001053  MaxY=1.000999
+Warning:  l43mp_bpe    XScale=1.000600  MaxX=1.000999    YScale=1.001053  MaxY=1.000999
+Warning:  l44pn_tpe    XScale=1.000557  MaxX=1.000999    YScale=1.001042  MaxY=1.000999
+Warning:  l45sp_bpe    XScale=1.000557  MaxX=1.000999    YScale=1.001042  MaxY=1.000999
+Warning:  l46pn_tpe    XScale=1.000620  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+Warning:  l47mp_bpe    XScale=1.000620  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+Warning:  l48pn_tpe    XScale=1.000610  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+Warning:  l49mp_bpe    XScale=1.000610  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+Warning:  l50mp_tpe    XScale=1.000615  MaxX=1.000999    YScale=1.001079  MaxY=1.000999
+Warning:  l51pn_bpe    XScale=1.000615  MaxX=1.000999    YScale=1.001079  MaxY=1.000999
+Warning:  l52mp_tpe    XScale=1.000630  MaxX=1.000999    YScale=1.001167  MaxY=1.000999
+Warning:  l53mp_bpe    XScale=1.000630  MaxX=1.000999    YScale=1.001167  MaxY=1.000999
+Warning:  l54pn_tpe    XScale=1.000639  MaxX=1.000999    YScale=1.001034  MaxY=1.000999
+Warning:  l55pn_bpe    XScale=1.000639  MaxX=1.000999    YScale=1.001034  MaxY=1.000999
+Warning:  l56pn_tpe    XScale=1.000575  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+Warning:  l57pn_bpe    XScale=1.000575  MaxX=1.000999    YScale=1.001059  MaxY=1.000999
+l58mp_bpl    XScale=1.000000     YScale=1.000000
